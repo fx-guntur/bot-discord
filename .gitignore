@@ -1,0 +1,21 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+env/
+venv/
+
+# Environment variable files
+.env
+
+# Editor settings (Visual Studio Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# macOS system file
+.DS_Store
+
+# Log files
+*.log
