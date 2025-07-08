@@ -1,4 +1,4 @@
-# 🎧 Personal Bobi Bot
+# 🎧 Personal Bot
 
 A fun and simple Discord bot built with Python.  
 It can play music from YouTube, join and leave voice channels, and respond to basic text commands like `!hello`.
